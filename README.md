@@ -1,6 +1,6 @@
 <hr/>
 
-##*vector container*
+## *vector container*
 
   - 삽입, 삭제에는 비효율적임.
   
