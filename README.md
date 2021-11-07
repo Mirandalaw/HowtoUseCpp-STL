@@ -2,7 +2,7 @@
 ## *vector container*
 
   - 삽입, 삭제 비효율
-<hr/>
+<hr>
 
   ```#include<vector>``` : 헤더파일 추가.
   
@@ -22,6 +22,5 @@
   
   ```vector<int> v2(v1)``` : v2는 v1 vector 복사.
   
-  ```
   
 <hr/>
