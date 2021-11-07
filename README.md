@@ -1,13 +1,23 @@
 
 ## *vector container*
 
-  - 삽입, 삭제에는 비효율적임.
+  - 삽입, 삭제 비효율
 <hr/>
 
-   ```vector<int> v``` : 비어있는 vector v를 생성.
+  ```#include<vector> : 헤더파일 추가.
   
-   ```vector<int> v(N)``` : 0으로 초기화 된 N개의 원소를 가짐.
+  ```vector<(DataType)> v``` 
   
-   ```vector<int> v2(v1)``` : v2는 v1 vector 복사
+  -> ```v.push_back(N)
+  
+  ```vector<pair<(DataType),(DataType)> v 
+  
+  -> ```v.push_back(make_pair(a,b))
+  
+  ```vector<int> v(N)``` : 0으로 초기화 된 N개의 원소를 가짐.
+  
+  ```vector<int> v2(v1)``` : v2는 v1 vector 복사.
+  
+  ```
   
 <hr/>
