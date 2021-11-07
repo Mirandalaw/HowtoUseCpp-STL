@@ -8,11 +8,11 @@
   
   ```vector<(DataType)> v``` 
   
-  -> ```v.push_back(N)
+  Insert -> ```v.push_back(N)
   
   ```vector<pair<(DataType),(DataType)> v 
   
-  -> ```v.push_back(make_pair(a,b))
+  Insert -> ```v.push_back(make_pair(a,b))
   
   ```vector<int> v(N)``` : 0으로 초기화 된 N개의 원소를 가짐.
   
