@@ -1,5 +1,5 @@
 
-## *1.vector container*
+## *1. vector Container*
 
   - 삽입, 삭제 비효율
 <hr>
@@ -22,5 +22,11 @@
   
   ```vector<int> v2(v1)``` : v2는 v1 vector 복사.
   
-  
+  ```vector<(DataType)>::iterator iter;
+     for(iter = v.begin(); iter != v.end(); iter++){
+        cout<<*iter<<'\n';
+      }
+  ```
 <hr/>
+
+## *2. queue Container*
