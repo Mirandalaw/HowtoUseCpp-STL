@@ -1,9 +1,9 @@
 <hr/>
 ##*vector container*
 
-  > -삽입, 삭제에는 비효율적임.
+  > 삽입, 삭제에는 비효율적임.
 
-  > -ㅁㅁㅁㅁㅁ<- push_back(),pop_back() 맨 뒤쪽에서 삽입과 삭제 가능
+  > ㅁㅁㅁㅁㅁ<- push_back(),pop_back() 맨 뒤쪽에서 삽입과 삭제 가능
 
  >1. ```vector<int> v``` : 비어있는 vector v를 생성.
 
