@@ -24,12 +24,12 @@
   
   ```vector<(DataType)>::iterator iter;
      for(iter = v.begin(); iter != v.end(); iter++){
-        cout<<*iter<<'\n';
+        cout<<*iter<<'\n';  
       }
   ```
 <hr/>
 
-## *2. queue Container*
+## *2.   queue Container*
 
 <hr/>
 
