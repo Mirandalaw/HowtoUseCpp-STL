@@ -31,6 +31,8 @@
 
 ## *2.   queue Container*
 
-<hr/>
+<hr/><hr>
 
   ```#include<queue>``` : 헤더파일 추가.
+  
+  ```queue<(DataType)> q``` 
