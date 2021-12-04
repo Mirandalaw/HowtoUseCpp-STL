@@ -29,7 +29,7 @@
   ```
 <hr/>
 
-## *2.   queue Container*
+## *2. queue Container*
 
 <hr/><hr>
 
