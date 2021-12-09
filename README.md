@@ -1,5 +1,5 @@
 
-## *1. vector  Container*
+## *1. vector Container*
 
   - 삽입, 삭제 비효율
 <hr>
