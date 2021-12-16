@@ -1,7 +1,7 @@
 
 ## *1. vector Container*
 
-  - 삽입, 삭제 비효율
+  - 삽입,삭제 비효율
 <hr>
 
   ```#include<vector>``` : 헤더파일 추가.
